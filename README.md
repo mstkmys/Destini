@@ -6,7 +6,7 @@
 )](https://developer.apple.com/swift)
 [![Twitter](https://img.shields.io/badge/twitter-@mstkmys-blue.svg?style=flat)](https://twitter.com/mstkmys)
 
-This app is destini application...
+![destini](https://user-images.githubusercontent.com/12792235/37084187-2591e00e-2235-11e8-8ff0-c891c3a1c438.gif)
 
 ## Author
 **Masataka Miyoshi**
